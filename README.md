@@ -4,6 +4,4 @@ This project demonstrates a mirror rendering system using an off-axis projection
 
 ## Screenshots
 
-Include your screenshots in a folder (e.g., `Screenshots`) in your repository and reference them here. For example:
-
 ![Mirror Rendering Screenshot](Screenshots/mirror_rendering.png)
